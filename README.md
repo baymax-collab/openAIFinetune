@@ -21,3 +21,6 @@ python print_fine_tuned_model.py
 ```
 python use_model.py
 ```
+
+# 请我喝杯奶茶
+![zs.jpg](zs.jpg)
