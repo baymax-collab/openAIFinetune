@@ -23,4 +23,6 @@ python use_model.py
 ```
 
 # 请我喝杯奶茶
-![zs.jpg](zs.jpg)
+![img_2.png](img_2.png)
+
+# 关注公众号“科技探幽”
